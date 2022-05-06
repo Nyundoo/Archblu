@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /images/
+Allow: /images/icon.png
+Allow: /images/logo.png
+Disallow: /pages/thankyou.html
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /css/
+Disallow: /vendor/
